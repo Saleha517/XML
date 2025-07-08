@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<Animalshop>
+    <name>Cat</name>
+    <biologicalname>Felis Catus</biologicalname>
+    <color>Blackish grey</color>
+    <price>4000</price>
+
+        <name>Cat</name>
+    <biologicalname>Felis Catus</biologicalname>
+    <color>Blackish grey</color>
+    <price>4000</price>
+
+        <name>Cat</name>
+    <biologicalname>Felis Catus</biologicalname>
+    <color>Blackish grey</color>
+    <price>4000</price>
+    
+     <name>Cat</name>
+    <biologicalname>Felis Catus</biologicalname>
+    <color>Blackish grey</color>
+    <price>4000</price>
+    
+</Animalshop>

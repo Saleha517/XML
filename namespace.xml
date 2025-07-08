@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<course>
+<f:table xmlns:f="URI">
+     <f:tr>
+       <f:td>English</f:td>
+       <f:td>16</f:td>
+       <f:td>300</f:td>
+       <f:td>Available</f:td>
+     </f:tr>     
+</f:table>
+
+
+<m:table xmlns:m="URI">
+     <m:tr>
+       <m:td>Mathematics</m:td>
+       <m:td>34</m:td>
+       <m:td>500</m:td>
+       <m:td>Available</m:td>
+     </m:tr>     
+</m:table>
+</course>
