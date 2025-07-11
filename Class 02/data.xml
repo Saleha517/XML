@@ -1,24 +1,32 @@
 <?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 
 <Animalshop>
-    <name>Cat</name>
-    <biologicalname>Felis Catus</biologicalname>
-    <color>Blackish grey</color>
-    <price>4000</price>
+    <animal sno="1">
+        <name>Cat</name>
+        <biologicalname>Felis Catus</biologicalname>
+        <color>Blackish grey</color>
+        <price>4000</price>
+    </animal>
 
-
-    <name>Parrot</name>
+    <animal sno="2">
+        <name>Parrot</name>
         <biologicalname>Psittaciformes</biologicalname>
         <color>Green and Red</color>
         <price>1500</price>
-    
-    <name>Rabbit</name>
+    </animal>
+
+    <animal sno="3">
+        <name>Rabbit</name>
         <biologicalname>Oryctolagus Cuniculus</biologicalname>
         <color>White</color>
         <price>2500</price>
+    </animal>
 
+    <animal sno="4">
         <name>Dog</name>
         <biologicalname>Canis Lupus Familiaris</biologicalname>
         <color>Golden</color>
         <price>8000</price>
+    </animal>
 </Animalshop>
